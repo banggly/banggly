@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @banggly (방그리) or Mary
 - 👀 I’m interested in learning new things and challenging myself! Currently, focusing on PILATES
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on JS code and Web development
+- 💞️ I’m looking forward to collaborate on JS code and Web development
 - 📫 How to reach me: file:///Users/user/Desktop/COMP%20study/java%20study.html/study3.html?  ==> My JS webpage
 - 😄 Pronouns: She
 - ⚡ Fun fact: Planning for Europe trip in July!! So exciting
